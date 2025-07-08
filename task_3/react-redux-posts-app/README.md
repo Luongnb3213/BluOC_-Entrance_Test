@@ -7,7 +7,7 @@ It allows users to fetch, create, update, and delete posts using a modern UI and
 
 ## 🛠 Features
 
--  Fetch posts from [JSONPlaceholder](https://jsonplaceholder.typicode.com)
+-  Fetch posts from [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts)
 -  Add new posts via a modal form
 -  Edit existing posts inline
 -  Delete posts with confirmation
