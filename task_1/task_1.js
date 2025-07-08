@@ -24,7 +24,7 @@ console.log(frequentWords(['a', 'ab', 'abc', 'cd', 'def', 'gh']));
 // ['ab', 'cd', 'gh']
 
 console.log(frequentWords(['hi', 'hello', 'hey', 'yo']));
-// ['hi', 'hey', 'yo']
+// ['hi', 'yo']
 
 console.log(frequentWords(['one', 'two', 'six']));
 // ['one', 'two', 'six']
